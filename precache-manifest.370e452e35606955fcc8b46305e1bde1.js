@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e43d156355908209ec7a",
-    "url": "/Moviely/static/css/main.426b5c3e.chunk.css"
+    "revision": "97e0f5c9c94ef6a6d890",
+    "url": "/Moviely/static/css/main.8dc363fb.chunk.css"
   },
   {
-    "revision": "e43d156355908209ec7a",
-    "url": "/Moviely/static/js/main.5c8af67f.chunk.js"
+    "revision": "97e0f5c9c94ef6a6d890",
+    "url": "/Moviely/static/js/main.45b06f83.chunk.js"
   },
   {
     "revision": "c6fe4f3c778991f488a6",
     "url": "/Moviely/static/js/runtime~main.3b01a78f.js"
   },
   {
-    "revision": "2fd1440c77cb07d09c5a",
+    "revision": "37de2eaa7f98dadf18da",
     "url": "/Moviely/static/css/2.736847a5.chunk.css"
   },
   {
-    "revision": "2fd1440c77cb07d09c5a",
-    "url": "/Moviely/static/js/2.05278725.chunk.js"
+    "revision": "37de2eaa7f98dadf18da",
+    "url": "/Moviely/static/js/2.00a9c2bd.chunk.js"
   },
   {
     "revision": "b3ad1b1743e1d8b39b06b342c6b142db",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Moviely/static/media/footer.d061bcec.jpg"
   },
   {
-    "revision": "a0c73544945dd94fe87548d8201df947",
+    "revision": "5761ea6a6d179f863a68b0b3f768c2a1",
     "url": "/Moviely/index.html"
   }
 ];
